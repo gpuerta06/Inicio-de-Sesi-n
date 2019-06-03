@@ -7,6 +7,6 @@
     define('RUTA_APP', dirname(dirname(__FILE__)));
     define('ROOT_PATH', $_SERVER['DOCUMENT_ROOT']);
     //Ruta url 
-    define('RUTA_URL', 'http://localhost/inicio_sesion');
+    define('RUTA_URL', 'http://localhost/Inicio-de-Sesi-n');
 
     define('NOMBRESITIO', 'INICIO SESION');
