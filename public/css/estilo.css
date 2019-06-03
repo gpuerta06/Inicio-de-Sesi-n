@@ -1,0 +1,19 @@
+#etiquetas{
+	font-weight: bold;
+	font-size: 19px;
+}
+
+#tabla-correspondencia{
+	border: 1px solid black;
+}
+
+#titulo-tabla-correspondencia{
+	font-size: 19px;
+	font-family:Arial, Helvetica, sans-serif;
+
+}
+
+#fuente-cuerpo-correspondencia{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 19px;
+}
